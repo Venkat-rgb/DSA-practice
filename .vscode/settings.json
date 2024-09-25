@@ -3,6 +3,12 @@
     "*html": "html",
     "cmath": "cpp",
     "iostream": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "regex": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp"
   }
 }
