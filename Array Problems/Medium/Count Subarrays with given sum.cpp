@@ -1,3 +1,5 @@
+// Time complexity: O(N)
+// Space complexity: O(N)
 int subarraySum(vector<int>& nums, int k) {
     int n = nums.size();
     int sum = 0, maxi = INT_MIN, cnt = 0;
