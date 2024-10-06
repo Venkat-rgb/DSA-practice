@@ -17,3 +17,6 @@ long long pairsWithGivenSum(int arr[], int n, int sum)
 
     return cnt;
 }
+
+// Time complexity: O(N)
+// Space complexity: O(N)
