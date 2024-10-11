@@ -65,3 +65,6 @@ int main() {
 
     delete [] arr;
 }
+
+// Time complexity: O(NlogN)
+// Space complexity: O(N)
