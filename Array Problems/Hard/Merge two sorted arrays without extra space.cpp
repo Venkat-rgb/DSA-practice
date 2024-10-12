@@ -19,3 +19,6 @@ void mergeTwoSortedArraysWithoutExtraSpace(vector<long long> &a, vector<long lon
 	sort(a.begin(), a.end());
 	sort(b.begin(), b.end());
 }
+
+// Time complexity: O(min(m, n)) + O(MlogM) + O(NlogN)
+// Space complexity: O(1)
