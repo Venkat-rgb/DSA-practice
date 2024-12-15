@@ -12,7 +12,7 @@ public:
             return;
         }
 
-        // 2) Recursion work
+        // 2) Recursion work + My work
         // (i) Pick
         temp.push_back(candidates[start]);
         sum += candidates[start];
