@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Approach - 1(First generating permutation from index 1 to n, and adding arr[0] at each of the index)
     void helper(vector <int> &nums, int start, vector<vector<int>> &res) {
         // 1) Base case
         if(start == nums.size()) {
