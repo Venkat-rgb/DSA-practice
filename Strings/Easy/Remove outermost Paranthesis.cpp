@@ -1,3 +1,4 @@
+// Time complexity: O(N)
 class Solution {
 public:
     string removeOuterParentheses(string s) {
