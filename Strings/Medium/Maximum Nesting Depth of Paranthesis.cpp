@@ -1,3 +1,5 @@
+
+// Time complexity: O(N)
 class Solution {
 public:
     int maxDepth(string s) {
