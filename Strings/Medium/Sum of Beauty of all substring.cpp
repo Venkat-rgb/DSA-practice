@@ -1,3 +1,4 @@
+// Time complexity: O(N^2)
 class Solution {
 public:
     int beautySum(string s) {
