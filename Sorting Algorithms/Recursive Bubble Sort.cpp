@@ -1,4 +1,5 @@
 // Time complexity: O(N^2)
+// Space complexity: O(1)
 void bubbleSort(int arr[], int n) {
     // Base case
     if(n <= 1) {
