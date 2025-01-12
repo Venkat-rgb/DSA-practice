@@ -1,5 +1,6 @@
 // User function Template for C++
 // Time complexity: O(N^2)
+// Space complexity: O(1)
 class Solution {
   public:
     // Function to sort the array using bubble sort algorithm.
