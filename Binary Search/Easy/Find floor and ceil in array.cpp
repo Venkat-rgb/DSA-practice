@@ -1,4 +1,5 @@
 // Time complexity: O(2LogN)
+// Space complexity: O(1)
 #include <algorithm>
 
 int getCeil(int n, int x, vector<int> &arr)
