@@ -1,4 +1,5 @@
 // Time complexity: O(LogN)
+// Space complexity: O(1)
 class Solution {
 public:
     int check(vector <int> nums, int mid) {
