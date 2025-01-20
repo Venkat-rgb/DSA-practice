@@ -1,5 +1,6 @@
 // User function template for C++
 // Time complexity: O(logN)
+// Space complexity: O(1)
 class Solution {
   public:
     int check(vector <int> arr, long long mid) {
