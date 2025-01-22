@@ -1,4 +1,5 @@
 // Time complexity: O(Logn)
+// Space complexity: O(1)
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
