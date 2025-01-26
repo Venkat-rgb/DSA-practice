@@ -1,4 +1,5 @@
 // Time complexity: O(logN)
+// Space complexity: O(1)
 int check(vector <int> arr, int mid, int x) {
 	if(arr[mid] >= x) {
 		return 1;
