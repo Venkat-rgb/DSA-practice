@@ -1,3 +1,4 @@
+// Time complexity: O(LogN)
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
