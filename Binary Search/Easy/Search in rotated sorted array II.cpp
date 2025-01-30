@@ -1,4 +1,5 @@
 // Time complexity: O(logN)
+// Space complexity: O(1)
 class Solution {
 public:
     bool search(vector<int>& nums, int target) {
