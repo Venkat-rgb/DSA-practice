@@ -1,4 +1,5 @@
 // Time complexity: O(logN)
+// Space complexity: O(1)
 int check(vector <int> nums, int mid, int target) {
     if(nums[mid] >= target) {
         return 1;
