@@ -1,3 +1,4 @@
+// TIme complexity: O(logN)
 int check(vector <int> arr, int mid, int x) {
 	if(arr[mid] > x) {
 		return 1;
