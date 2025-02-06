@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Time complexity: O(log10n)
+
 int countZeros(int n) {
     if(n <= 9){
         if(n == 0) return 1;
