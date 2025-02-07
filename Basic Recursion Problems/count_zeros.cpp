@@ -2,7 +2,7 @@
 using namespace std;
 
 // Time complexity: O(log10n)
-
+// Space complexity: O(1)
 int countZeros(int n) {
     if(n <= 9){
         if(n == 0) return 1;
