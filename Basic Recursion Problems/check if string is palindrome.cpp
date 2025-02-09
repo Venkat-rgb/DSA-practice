@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 // Time complexity: O(2N) (N for converting to lower case, N for recursion)
+// Space complexity: O(1)
 
 bool checkPalindrome(string s, int start, int end) {
     if (start >= end) {
