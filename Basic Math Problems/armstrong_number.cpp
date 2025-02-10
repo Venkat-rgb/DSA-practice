@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Time complexity: O(log10n)
+
 bool checkArmstrong(int n){
 	int res = n, cnt = (int)(log10(n) + 1);
 	long long sum = 0;
