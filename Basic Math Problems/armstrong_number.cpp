@@ -2,6 +2,7 @@
 using namespace std;
 
 // Time complexity: O(log10n)
+// Space complexity: O(1)
 
 bool checkArmstrong(int n){
 	int res = n, cnt = (int)(log10(n) + 1);
