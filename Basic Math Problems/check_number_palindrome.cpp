@@ -1,3 +1,5 @@
+// Time complexity: O(log10n)
+
 #include <iostream>
 #include <climits>
 using namespace std;
