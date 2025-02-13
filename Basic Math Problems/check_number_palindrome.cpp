@@ -1,4 +1,5 @@
 // Time complexity: O(log10n)
+// Space complexity: O(1)
 
 #include <iostream>
 #include <climits>
