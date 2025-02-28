@@ -11,6 +11,7 @@ ListNode* deleteMiddle(ListNode* head) {
         fast = fast->next->next;
     }
 
+    
     prev -> next = prev -> next -> next;
     return head;
 }
