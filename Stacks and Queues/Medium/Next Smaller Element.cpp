@@ -1,3 +1,5 @@
+// Time complexity: O(N)
+// Space complexity: O(N)
 vector <int> prevSmaller(vector<int> &A) {
     int n = A.size();
     vector <int> res;
