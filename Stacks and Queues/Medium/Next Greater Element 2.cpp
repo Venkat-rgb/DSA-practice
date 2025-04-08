@@ -1,3 +1,5 @@
+// Time complexity: O(N)
+// Space complexity: O(N)
 class Solution {
     public:
         vector<int> nextGreaterElements(vector<int>& nums) {
