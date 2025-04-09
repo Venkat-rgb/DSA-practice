@@ -1,5 +1,5 @@
 //User function Template for C++
-
+// Time comlpexity: O(N * queries)
 class Solution{
     public:
     
