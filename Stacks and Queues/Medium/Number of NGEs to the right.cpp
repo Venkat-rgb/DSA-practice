@@ -1,5 +1,6 @@
 //User function Template for C++
 // Time comlpexity: O(N * queries)
+// Space complexity: O(1) (Auxiliary Space)
 class Solution{
     public:
     
