@@ -1,4 +1,5 @@
 // Time complexity: O(N)
+// Space complexity: O(N)
 class Solution {
     public:
         string removeKdigits(string num, int k) {
