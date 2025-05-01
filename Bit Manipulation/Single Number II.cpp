@@ -1,3 +1,4 @@
+// Time complexity: O(N * 32)
 class Solution {
     public:
         int singleNumber(vector<int>& nums) {
