@@ -1,3 +1,4 @@
+// Time complexity: O(Nlog(logN))
 void countPrimes(int n) {
     vector <int> arr(n, 1);
 
