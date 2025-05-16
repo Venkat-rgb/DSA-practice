@@ -1,4 +1,5 @@
 // TIme complexity: O(log26 N)
+// Space complexity: O(log26 N)
 class Solution {
 public:
     string convertToTitle(int columnNumber) {
