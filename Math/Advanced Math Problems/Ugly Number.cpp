@@ -1,3 +1,4 @@
+// Time complexity: O(sqrt(N))
 class Solution {
 public:
     bool isUgly(int n) {
