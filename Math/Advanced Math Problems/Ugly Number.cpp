@@ -1,4 +1,5 @@
 // Time complexity: O(sqrt(N))
+// Space complexity: O(1)
 class Solution {
 public:
     bool isUgly(int n) {
