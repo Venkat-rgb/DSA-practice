@@ -1,3 +1,4 @@
+// Time complexity: O(N + Nlog(logN))
 vector<int> leastPrimeFactor(int n) {
     vector <int> arr(n + 1);
     arr[0] = 0;
