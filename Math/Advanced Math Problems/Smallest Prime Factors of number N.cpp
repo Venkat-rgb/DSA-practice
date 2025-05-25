@@ -1,4 +1,5 @@
 // Time complexity: O(N + Nlog(logN))
+// Space complexity: O(no of prime factors)
 vector<int> leastPrimeFactor(int n) {
     vector <int> arr(n + 1);
     arr[0] = 0;
