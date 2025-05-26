@@ -1,4 +1,5 @@
 // Time complexity: O(Nlog(logN))
+// Space complexity: O(no of primes)
 void countPrimes(int n) {
     vector <int> arr(n, 1);
 
