@@ -1,3 +1,4 @@
+// Time complexity: O(sqrt(N))
 vector<int> AllPrimeFactors(int N) {
     vector <int> res;
     
