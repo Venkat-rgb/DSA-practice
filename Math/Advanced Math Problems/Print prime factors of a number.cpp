@@ -1,4 +1,5 @@
 // Time complexity: O(sqrt(N))
+// Space complexity: O(no of primes)
 vector<int> AllPrimeFactors(int N) {
     vector <int> res;
     
