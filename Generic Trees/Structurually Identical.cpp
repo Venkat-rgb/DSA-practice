@@ -12,4 +12,4 @@ bool areIdentical(TreeNode<int> *root1, TreeNode<int> * root2) {
     }
 
     return true;
-}s
+}
