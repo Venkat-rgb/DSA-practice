@@ -1,3 +1,4 @@
+// Time complexity: O(N)
 void printNodesWithoutSibling(BinaryTreeNode<int> *root) {
     if(root == NULL || (root -> left == NULL && root -> right == NULL)) return;
 
