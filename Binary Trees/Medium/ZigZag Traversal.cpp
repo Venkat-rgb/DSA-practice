@@ -1,3 +1,14 @@
+/**
+ * The function `zigzagLevelOrder` performs a level order traversal of a binary tree in a zigzag
+ * pattern and returns the nodes in each level in a vector of vectors.
+ * 
+ * @param root The provided code is a function that performs a level order traversal of a binary tree
+ * in a zigzag pattern. The function takes a TreeNode pointer `root` as input, which represents the
+ * root of the binary tree for which the zigzag level order traversal needs to be performed.
+ * 
+ * @return The function `zigzagLevelOrder` returns a vector of vectors of integers, which represents
+ * the level order traversal of a binary tree in a zigzag pattern.
+ */
 vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         vector<vector<int>> res;
 

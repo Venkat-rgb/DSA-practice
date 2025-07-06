@@ -1,3 +1,15 @@
+/**
+ * The given C++ code defines a function to perform boundary traversal of a binary tree and return the
+ * boundary nodes in a vector.
+ * 
+ * @param root The code you provided is for performing boundary traversal of a binary tree. The
+ * `boundaryTraversal` function takes the root of the binary tree as input and returns a vector
+ * containing the boundary elements of the tree in a counterclockwise order.
+ * @param res The `res` parameter is a reference to a vector of integers. This vector is used to store
+ * the boundary elements of a binary tree during the boundary traversal process. The boundary elements
+ * include the left boundary nodes, leaf nodes, and right boundary nodes of the binary tree. The
+ * `boundaryTraversal` function
+ */
 void leftBoundary(Node *root, vector <int> &res)  {
         Node *curr = root -> left;
         
